@@ -1,5 +1,5 @@
 # 👋About Me
-- I'm Moneyash
+- I'm Oats
 - Just some random person on the internet, learning too many programming languages at once! 😊
 - I have been coding in various languages on and off for the past 4+ years but I am no expert
 
@@ -35,11 +35,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-
-# ⚒Some things I have made or working on
-
-## Discord bot named Sparky
-Created using Discord.JS
-
-## A game named "Shadows of the Unknown"
-A new project I'm working on in Unity
