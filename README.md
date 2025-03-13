@@ -1,5 +1,4 @@
-# 👋About Me
-- I'm Oats
+# Hiya!! I'm Oats! 👋
 - Just some random person on the internet, learning too many programming languages at once! 😊
 - I have been coding in various languages on and off for the past 4+ years but I am no expert
 
@@ -15,15 +14,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
 <h2 align="left">Random stuff I've used</h2>
