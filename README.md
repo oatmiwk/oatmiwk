@@ -35,8 +35,5 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/snake.svg" alt="Snake animation" />
