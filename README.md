@@ -36,4 +36,4 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
-![snake animation](https://github.com/oatmiwk/oatmiwk/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/snake.svg" alt="Snake animation" />
