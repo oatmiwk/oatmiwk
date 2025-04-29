@@ -3,7 +3,7 @@ I'm just a silly little developer that does random work and is enjoying life!<br
 I have been coding in various languages for the past 7+ years but I still suck at it :/<br>
 I mostly do front end development as I like to mainly focus on the UI/UX side of things, on some occasions i'll do some backend work!
 
-## Languages I have used
+## Languages/Libraries I have used
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="5" />
