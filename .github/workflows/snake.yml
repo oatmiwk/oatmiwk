@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=#5bcefa&color_dots=#f9e1e6,#fad3db,#f9c4cf,#fab8c5,#f5a9b8
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=#5bcefa&color_dots=#f0e1fb,#fad3db,#f9c4cf,#fab8c5,#f5a9b8
           
           
       # push the content of <build_dir> to a branch
