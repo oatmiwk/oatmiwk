@@ -1,7 +1,9 @@
-# Hiya!! I'm Oats! 👋
-I have been coding in various languages for the past 6+ years but I still suck
+# Hiya, I'm Oats! 🌾
+I'm just a silly little developer that does random work and is enjoying life!<br><br>
+I have been coding in various languages for the past 7+ years but I still suck at it :/<br>
+I mostly do front end development as I like to mainly focus on the UI/UX side of things, on some occasions i'll do some backend work!
 
-<h2 align="left">Languages I have used</h2>
+## Languages I have used
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="5" />
@@ -20,7 +22,8 @@ I have been coding in various languages for the past 6+ years but I still suck
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="java logo"  />
 </div>
-<h2 align="left">Random stuff I've used</h2>
+
+## Random stuff I've used
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="5" />
@@ -43,3 +46,6 @@ I have been coding in various languages for the past 6+ years but I still suck
 <img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<div align="right">
+🏳️‍⚧️
+</div>
