@@ -13,7 +13,9 @@ I mostly do front end development as I like to mainly focus on the UI/UX side of
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
 </div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -22,9 +24,11 @@ I mostly do front end development as I like to mainly focus on the UI/UX side of
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
 
 ## Random stuff I've used
@@ -35,7 +39,7 @@ I mostly do front end development as I like to mainly focus on the UI/UX side of
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
@@ -44,7 +48,7 @@ I mostly do front end development as I like to mainly focus on the UI/UX side of
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
 <div align="left">
