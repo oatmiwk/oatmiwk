@@ -30,27 +30,6 @@ I mostly do front end development as I like to mainly focus on the UI/UX side of
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
-
-## Random stuff I've used
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
-
 <div align="left">
 <img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
