@@ -1,9 +1,9 @@
 # Hiya, I'm Oats! 🌾
-I'm just a silly little developer that does random work and is enjoying life!
+I'm just a silly lil dev that does random things on the interwebs :3
 
-I have been coding in various languages for the past 7+ years but I still suck at it 🥲
+I have been coding in various languages for the past 7+ years, yet I still suck at it :(
 
-I mostly do front end development as I like to mainly focus on the UI/UX side of things, on some occasions i'll do some backend work!
+I mostly work on the front-end of things as I love making websites and buidling UIs, but I have been doing quite more then that lately!
 ## Things I've developed in
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
