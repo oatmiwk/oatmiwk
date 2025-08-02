@@ -17,8 +17,7 @@ I mostly work on the front-end of things as I love making websites and buidling 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
-<div align="left">
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
