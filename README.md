@@ -6,29 +6,33 @@ I have been coding in various languages for the past 7+ years, yet I still suck 
 I mostly work on the front-end of things as I love making websites and buidling UIs, but I have been doing quite more then that lately!
 ## Things I've developed in 👩🏻‍💻
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="nodejs"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
