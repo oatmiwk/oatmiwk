@@ -4,8 +4,8 @@ I'm just a silly lil dev that does random things on the interwebs :3
 I have been coding in various languages for the past 7+ years, yet I still suck at it :(
 
 I mostly work on the front-end of things as I love making websites and buidling UIs, but I have been doing quite more then that lately!
-## Things I've developed in
-<div align="left">
+## Things I've developed in 👩🏻‍💻
+<div align="center">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -30,8 +30,8 @@ I mostly work on the front-end of things as I love making websites and buidling 
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
-<div align="left">
-<img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="right">
