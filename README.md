@@ -1,4 +1,4 @@
-# Hiya!! 🌸 I'm Amy (aka oatmiwk) ✨
+# Hiya!!🌸I'm Amy (aka oatmiwk)✨
 Just a silly lil dev creating things on the interwebs :3
 
 I have been messing around with coding for over 8 years, and I am very good at breaking things 😅
