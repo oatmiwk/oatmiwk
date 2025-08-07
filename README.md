@@ -1,10 +1,10 @@
-# Hiya!! My name is Amy (aka oatmiwk) 🌾
-I'm just a silly lil dev that does random things on the interwebs :3
+# Hiya!! 🌸 I'm Amy (aka oatmiwk) ✨
+Just a silly lil dev creating things on the interwebs :3
 
-I have been coding in various languages for the past 7+ years, yet I still suck at it!!
+I have been messing around with coding for over 8 years, and I am very good at breaking things 😅
 
-I mostly work on the front-end of things as I love making websites and buidling UIs!
-## Things I've developed in 👩🏻‍💻
+I love making websites and crafting cute UIs, also, Javascript is my BFF 🥰
+## 👩🏻‍💻 Things I've developed in 💻
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
   <img width="5" />
@@ -27,7 +27,7 @@ I mostly work on the front-end of things as I love making websites and buidling 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
 </div>
 
-## Tools I Use
+## 🪛 Tools I Use 🔧
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"  />
   <img width="5" />
@@ -43,6 +43,7 @@ I mostly work on the front-end of things as I love making websites and buidling 
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
 </div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake-dark.svg">
@@ -52,5 +53,5 @@ I mostly work on the front-end of things as I love making websites and buidling 
 </div>
 
 <div align="right">
-Oatmiwk 🏳️‍⚧️
+Amy 🏳️‍⚧️
 </div>
