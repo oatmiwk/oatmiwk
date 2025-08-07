@@ -1,30 +1,30 @@
-# Hiya, I'm Oats! 🌾
+# Hiya!! My name is Amy (aka oatmiwk) 🌾
 I'm just a silly lil dev that does random things on the interwebs :3
 
-I have been coding in various languages for the past 7+ years, yet I still suck at it :(
+I have been coding in various languages for the past 7+ years, yet I still suck at it!!
 
-I mostly work on the front-end of things as I love making websites and buidling UIs, but I have been doing quite more then that lately!
+I mostly work on the front-end of things as I love making websites and buidling UIs!
 ## Things I've developed in 👩🏻‍💻
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
 </div>
 
 ## Tools I Use
