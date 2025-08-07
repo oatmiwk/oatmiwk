@@ -16,23 +16,32 @@ I mostly work on the front-end of things as I love making websites and buidling 
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="nodejs"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
+</div>
+
+## Tools I Use
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="discordjs"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
 </div>
 <div align="center">
 <picture>
