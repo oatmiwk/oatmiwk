@@ -53,5 +53,5 @@ I love making websites and crafting cute UIs, also, Javascript is my BFF 🥰
 </div>
 
 <div align="right">
-Amy 🏳️‍⚧️
+𝒜𝓂𝓎 🏳️‍⚧️
 </div>
