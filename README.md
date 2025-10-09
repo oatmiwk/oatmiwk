@@ -1,48 +1,31 @@
-# Hiya!!🌸I'm Amy (aka oatmiwk)✨
-Just a silly lil dev creating things on the interwebs :3
+# 🌸Hiya!! I'm Amy (aka oatmiwk)✨
+Self Tought developer creating the most random things on the interwebs :3\
+I have been coding for over 8 years, and I am still very good at breaking *everything* 😅\
+I'm mostly do front-end developement, as I love making websites and crafting cute interfaces. Though, I often do a bit of everything!
 
-I have been messing around with coding for over 8 years, and I am very good at breaking things 😅
+### 💻 Tech Stack
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-LUA-000080?style=for-the-badge&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/-DISCORD.JS-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
+![](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-I love making websites and crafting cute UIs, also, Javascript is my BFF 🥰
-## 👩🏻‍💻 Things I've developed in 💻
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
-</div>
-
-## 🪛 Tools I Use 🔧
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="discordjs"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind"  />
-</div>
+### 🌀 React/UI Stack
+![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/-font%20awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+### 🦿 Tinkering With
+![](https://img.shields.io/badge/-arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/-raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <div align="center">
 <picture>
@@ -50,8 +33,4 @@ I love making websites and crafting cute UIs, also, Javascript is my BFF 🥰
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oatmiwk/oatmiwk/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-<div align="right">
-𝒜𝓂𝓎 🏳️‍⚧️
 </div>
