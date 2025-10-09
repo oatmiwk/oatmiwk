@@ -1,7 +1,10 @@
 # 🌸Hiya!! I'm Amy (aka oatmiwk)✨
-Self Tought developer creating the most random things on the interwebs :3\
-I have been coding for over 8 years, and I am still very good at breaking *everything* 😅\
-I'm mostly do front-end developement, as I love making websites and crafting cute interfaces. Though, I often do a bit of everything!
+💻 Self-taught developer creating the most random things on the interwebs :3  
+🔨 Coding for over 8 years, and amazing at breaking *everything* 😅  
+🎨 I mostly do front-end stuff like websites & interfaces, but I dabble in everything!  
+🦿 Currently getting back into robotics
+
+---
 
 ### 💻 Tech Stack
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,9 +26,12 @@ I'm mostly do front-end developement, as I love making websites and crafting cut
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/-font%20awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
-### 🦿 Tinkering With
+### ⚙️ Tinkering Stuff
 ![](https://img.shields.io/badge/-arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/-raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![](https://img.shields.io/badge/bambulab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
+
+---
 
 <div align="center">
 <picture>
