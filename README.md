@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-LUA-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![](https://img.shields.io/badge/-DISCORD.JS-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
