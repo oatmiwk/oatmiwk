@@ -29,8 +29,6 @@
 ### ⚙️ Tinkering Stuff
 ![](https://img.shields.io/badge/-arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/-raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![](https://img.shields.io/badge/bambulab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
-
 ---
 
 <div align="center">
