@@ -1,9 +1,8 @@
 # 🌸 𝓗𝓲𝔂𝓪 ✨
-👩🏻‍💻 **I'm Amy (She/Her)**\
+👩🏻‍💻 **I'm Amy**\
 💻 Self-taught developer creating the most random things on the interwebs :3  
 🔨 Coding for over 8 years, and amazing at breaking *everything* 😅  
 🎨 I mostly do front-end stuff like websites & interfaces, but I dabble in everything!  
-🦿 Currently getting back into robotics
 
 ---
 
