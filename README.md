@@ -16,15 +16,9 @@
 ![](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📱 Mobile Stack
 ![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/cocoapods-red?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![](https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/i18next-2d9789?style=for-the-badge&logo=i18next&logoColor=white)
-![](https://img.shields.io/badge/expo-black?style=for-the-badge&logo=expo&logoColor=white)
-
 
 ### 🌀 React/UI Stack
 ![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
