@@ -1,8 +1,7 @@
-# 🌸 𝓗𝓲𝔂𝓪 ✨
-👩🏻‍💻 **I'm Amy**\
-🛜 Network Engineer & Sysadmin
-💻 Coding for 8+ years
-🐜 Professional bug creator
+# 🌸 𝓗𝓲𝔂𝓪, 𝓘'𝓶 𝓐𝓶𝔂 ✨
+🛜 Network Engineer & Sysadmin\
+👩🏻‍💻 Programming for 8+ years & stil bad at it\
+🐜 Professional bug creator\
 🎨 Mostly do front-end development, but I dabble in everything
 
 ---
@@ -19,17 +18,22 @@
 ![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌀 React/UI Stack
 ![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/-font%20awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+
 ### ⚙️ Tinkering Stuff
 ![](https://img.shields.io/badge/-arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/-raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 🖥️ Operating Systems
+![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![](https://img.shields.io/badge/EndeavourOS-6767ff?style=for-the-badge&logo=endeavouros&logoColor=white)
+
+
 ---
 
 <div align="center">
