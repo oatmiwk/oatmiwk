@@ -1,33 +1,37 @@
 # 🌸 𝓗𝓲𝔂𝓪, 𝓘'𝓶 𝓐𝓶𝔂 ✨
-🛜 Network Engineer & Sysadmin\
-👩🏻‍💻 Programming for 8+ years & stil bad at it\
-🐜 Professional bug creator\
-🎨 Mostly do front-end development, but I dabble in everything
+- Studying Network Engineer & Sysadmin
+- Programming for 8+ years & still bad at it
+- Professional bug creator
+- Mostly do front-end development, but I dabble in everything
+
+(Also, yes, i love emojis, deal with it :3)
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-LUA-000080?style=for-the-badge&logo=lua&logoColor=white)
-![](https://img.shields.io/badge/-DISCORD.JS-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📚 Libraries & Frameworks
+![](https://img.shields.io/badge/-DISCORD.JS-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white)
+![](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/-font%20awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![](https://img.shields.io/badge/Font_Awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-### ⚙️ Tinkering Stuff
-![](https://img.shields.io/badge/-arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/-raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+### 🧰 Favourite Tools
+![](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![](https://img.shields.io/badge/xCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ### 🖥️ Operating Systems
 ![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
