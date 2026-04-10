@@ -10,13 +10,11 @@
 
 ### 💻 Languages
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-LUA-000080?style=for-the-badge&logo=lua&logoColor=white)
-![](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📚 Libraries & Frameworks
@@ -32,6 +30,7 @@
 ![](https://img.shields.io/badge/xCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
 
 ### 🖥️ Operating Systems
 ![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
