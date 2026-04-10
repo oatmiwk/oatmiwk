@@ -4,8 +4,6 @@
 - Professional bug creator
 - Mostly do front-end development, but I dabble in everything
 
-(Also, yes, i love emojis, deal with it :3)
-
 ---
 
 ### Languages
