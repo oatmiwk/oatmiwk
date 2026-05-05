@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Favourite Tools
 ![](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
