@@ -1,4 +1,4 @@
-# 🌸 𝓗𝓲𝔂𝓪, 𝓘'𝓶 𝓐𝓶𝔂 ✨
+# 𝓗𝓲𝔂𝓪 ✨
 - Studying Network Engineer & Sysadmin
 - Programming for 8+ years & still bad at it
 - Professional bug creator
