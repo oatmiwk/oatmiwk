@@ -26,6 +26,7 @@
 
 ### Favourite Tools
 ![](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
 ![](https://img.shields.io/badge/xCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
